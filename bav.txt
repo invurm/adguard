@@ -14,7 +14,6 @@
 ||wwis-dubc1-vip60.adobe.com
 ||activate-sjc0.adobe.com
 
-
 #IDM
 ||mirror*.internetdownloadmanager.com^
 ||test.internetdownloadmanager.com^
