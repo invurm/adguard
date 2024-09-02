@@ -1,4 +1,4 @@
-#Adobe
+# Adobe
 ||activate.adobe.com
 ||practivate.adobe.com
 ||ereg.adobe.com
@@ -14,14 +14,14 @@
 ||wwis-dubc1-vip60.adobe.com
 ||activate-sjc0.adobe.com
 
-#IDM
-||mirror*.internetdownloadmanager.com^
-||test.internetdownloadmanager.com^
-||secure.internetdownloadmanager.com^
-||www.internetdownloadmanager.com^
-||internetdownloadmanager.com^
-||registeridm.com^
-||secure.registeridm.com^
-||www.registeridm.com^
-||tonec.com^
-||www.tonec.com^
+# IDM
+||mirror*.internetdownloadmanager.com
+||test.internetdownloadmanager.com
+||secure.internetdownloadmanager.com
+||www.internetdownloadmanager.com
+||internetdownloadmanager.com
+||registeridm.com
+||secure.registeridm.com
+||www.registeridm.com
+||tonec.com
+||www.tonec.com
