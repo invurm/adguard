@@ -1,6 +1,6 @@
-||epochtimes.com^$redirect=http://warning.or.kr
-||soundofhope.org^$redirect=http://warning.or.kr
-||ntdtv.com^$redirect=http://warning.or.kr
-||secretchina.com^$redirect=http://warning.or.kr
-||rfa.org^$redirect=http://warning.or.kr
-||zhuichaguoji.org^$redirect=http://warning.or.kr
+||epochtimes.com
+||soundofhope.org
+||ntdtv.com
+||secretchina.com
+||rfa.org
+||zhuichaguoji.org
