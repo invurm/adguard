@@ -18,7 +18,7 @@
 ||mirror*.internetdownloadmanager.com
 ||test.internetdownloadmanager.com
 ||secure.internetdownloadmanager.com
-||www.internetdownloadmanager.com
+# ||www.internetdownloadmanager.com
 ||internetdownloadmanager.com
 ||registeridm.com
 ||secure.registeridm.com
